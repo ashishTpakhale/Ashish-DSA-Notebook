@@ -1,5 +1,5 @@
 //Solution 1
-class Solution {
+class Solution{
 public:
     bool isAnagram(string s, string t) {
         sort(s.begin(),s.end());
